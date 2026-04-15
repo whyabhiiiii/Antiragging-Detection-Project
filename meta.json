@@ -1,0 +1,18 @@
+{
+  "best_model_name": "LogisticRegression",
+  "f1": 0.9261,
+  "auc": 0.9044,
+  "accuracy": 0.871,
+  "classes": [
+    "Safe",
+    "Cyberbullying"
+  ],
+  "multi_classes": [
+    "age",
+    "ethnicity",
+    "gender",
+    "not_cyberbullying",
+    "other_cyberbullying",
+    "religion"
+  ]
+}
