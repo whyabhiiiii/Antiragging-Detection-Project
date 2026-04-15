@@ -1,18 +1,21 @@
 # ── Core ──────────────────────────────────────────────
-streamlit==1.28.0
-numpy==1.24.4
+streamlit>=1.28.0
+numpy>=1.24.0
 
 # ── NLP ──────────────────────────────────────────────
-nltk==3.8.1
-contractions==0.1.73
-emoji==2.8.0
+nltk>=3.8.1
+contractions>=0.1.73
+emoji>=2.8.0
 
 # ── Transformers (DistilBERT + DistilBART) ───────────
-transformers==4.36.0
-torch==2.1.0
+transformers>=4.36.0
+torch>=2.1.0
 
 # ── Explainability ───────────────────────────────────
-lime==0.2.0.1
+lime>=0.2.0.1
 
 # ── Security ─────────────────────────────────────────
-bleach==6.1.0
+bleach>=6.1.0
+
+# ── Build compatibility (Python 3.12+) ───────────────
+setuptools>=69.0.0
