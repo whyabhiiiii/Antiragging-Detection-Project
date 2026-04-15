@@ -1,0 +1,2 @@
+# System-level packages for Streamlit Cloud (apt-get)
+# Currently none required — all deps are pure Python.

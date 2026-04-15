@@ -1,0 +1,51 @@
+tweet_id,tweet_text,cyberbullying_type
+1001,"Bhai tu toh ek number ka loser hai, tujhse kuch nahi hoga.",insult
+1002,"Kal mil tu college ke bahar, teri aisi taisi karta hu.",threat
+1003,"Yeh sab freshers toh bilkul gawar lag rahe hain, inko ragg ragad ke theek karna padega.",ragging
+1004,"Tujh jaise bewakoof ko toh aisi hi treat karna chahiye, kutto jaisi shakal hai teri.",insult
+1005,"Maar khayega tu bina wajah, apne kaam se kaam rakh nahi toh nikalwa dunga class se.",threat
+1006,"Bhai aaj ki class toh bohot boring thi, aur prof kitna lamba pata raha tha.",not_cyberbullying
+1007,"Chinta mat kar bha, sab theek ho jayega exam tension lene se kuch nahi hota.",not_cyberbullying
+1008,"Abe nalle, kya samajh raha hai khud ko? Ek chamaat lagunga sab samajh aa jayega.",insult
+1009,"Mera project complete ho gaya hai ab bas submission baki hai kal.",not_cyberbullying
+1010,"Usko akele kamre mein bula ke ragging li sabne, aur woh bas ro raha tha.",ragging
+1011,"Tera career toh yahi khatam hai, tujhe pass toh hone nahi dunga is sem mein.",hierarchy_abuse
+1012,"Tu toh mazaak ke bhi laayak nahi hai, sharam kar thodi apni aukaat dekh pehle.",insult
+1013,"Canteen chalne wale hai kya 1 baje, class ke baad?",not_cyberbullying
+1014,"Abe hostel ke bahar nikal, tere jaise fattu ki toh izzat nikaal ke hi manunga aaj.",threat
+1015,"Tu bilkul zero hai, mar ja jaa ke kahin kisi ko farak nahi padega.",suicide_risk
+1016,"Yeh project itna tough nahi tha jitna juniors ro rahe the aaj.",not_cyberbullying
+1017,"Fresher party ke baad jo inki halat karenge na, sab yaad rakhenge.",ragging
+1018,"Ek chanta padega toh saari garmi nikal jayegi teri, chal nikal yahan se.",threat
+1019,"Tumse na ho payega gawar, tumhare jaise toh bheekh maangte hain road pe.",insult
+1020,"Chutiya samajh rakha hai kya sabko? Dimag kharab mat kar mera.",insult
+1021,"Wow it was such an amazing lecture, genuinely learned a lot from the session.",not_cyberbullying
+1022,"Teri saari chat history leaked ho chuki hai, ab dekhta ja tera kya haal karta hu poore college mein.",threat
+1023,"Arre nahi bhai mai late aaunga aaj, tum log chalu karo group meeting.",not_cyberbullying
+1024,"Agar kal task nahi diya na toh seedha terminate kara dunga tere ko club se, samajh gaya na aukaat apni.",hierarchy_abuse
+1025,"Ek glass paani bhi correctly server nahi kar saka tu? Tujh jaise failure ko zinda rehne ka haq hi nahi hai.",suicide_risk
+1026,"Inko seniors se baat karni nahi aati hai, inki special training leni padegi kal raat hostel me.",ragging
+1027,"Tujhe toh nangi aukaat dikhani padegi ab, tabhi theek aayega line par.",insult
+1028,"Just checked out the new syllabus, its quite lengthy but manageable hai yaar.",not_cyberbullying
+1029,"Tu apna thobda dikhane layek bhi bacha hai kya? Sab ko malum pad gaya hai tera kitna ganda character hai.",insult
+1030,"Gaali diya toh kaat ke phenk dunga tere ko, aur tere dost bhi aise hi pel diye jayenge.",threat
+1031,"Kya hal chal bhailog, sabka semester theek jaa raha hai na?",not_cyberbullying
+1032,"Is saal isko CR banana theek nahi hoga, banda useless hai ekdam.",not_cyberbullying
+1033,"Teri shakal dekh ke ulti aati hai, kitna badsurat aur mota hai tu. Chudail jaisa.",insult
+1034,"Ek hafta continuously insey physical task karwaate hain hostel mein tab jake respect karna sikhenge.",ragging
+1035,"Mai aaj office se late nikal raha hu, will catch up near metro station okay.",not_cyberbullying
+1036,"Tujhe toh maar daalna chahiye, kisi bojh ki tarah zinda kyu hai tu is duniya mein.",suicide_risk
+1037,"Sab group se nikal chuke hain usko, koi attention mat dena bc us loser ko, social boycott is needed.",insult
+1038,"Sir ne assignment delay karne ko allowed kar diya hai finally!",not_cyberbullying
+1039,"Tu agar bolte-bolte beech me laya apni opinion toh muh tod dunga samajh lio aukaat apni kuttte.",threat
+1040,"Gandi aur cheap logo ke gandi aur cheap harkate, iski shakal dekhi hai kabhi gawar kutti jaisi.",insult
+1041,"Tension waali koi baat hi nhi, the module is pretty transparent and understandable.",not_cyberbullying
+1042,"Kal raat ground me aana 12 baje sabke saamne sir ke bal nachte hue aana fresher.",ragging
+1043,"Jaa bhai jaa, suicide hi option bacha hai ab teri na-muraad zindagi me, kar le apne maa baap pe ehsaan.",suicide_risk
+1044,"Darta hai kya, darpok kutton ki fauj leke mat chal akele dikh mujhe.",threat
+1045,"Khatam karte hain jaldi, bohot thak gaya hu aaj ke presentation se",not_cyberbullying
+1046,"Ek dum nalayak bachha hai yeh, aisi mentality wale ko society me jeene mat do",insult
+1047,"Tera carrier barbaad kar ke chorunga mai tu fikar mat kar bas ab",hierarchy_abuse
+1048,"Nikal bahar bsdk maderchod",threat
+1049,"Usko hum log 2 ghante pushups karwaye tab uski thodi respect badhi",ragging
+1050,"Great session as always man, thanks for sharing",not_cyberbullying
